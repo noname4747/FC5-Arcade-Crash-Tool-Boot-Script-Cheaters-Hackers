@@ -18,3 +18,5 @@ How to use
     right-click on your process > miscellaneous > Inject Dll > Select your downloaded file
 
     Video how to crash pvp players https://www.youtube.com/watch?v=IZdVndYI35I
+
+    Crash guy
